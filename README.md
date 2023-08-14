@@ -9,13 +9,14 @@ Environment setup
 ```sh
 pip install -r requirement.txt
 ```
-## Data preparation
+## Data Preparation
 Download datasets:
 
 1. LibriSpeech ASR corpus (https://www.openslr.org/12)
 2. Common voice (zh-TW) (https://commonvoice.mozilla.org/zh-TW/datasets)
 
-
+## Pre-trained Weight
+Link: https://drive.google.com/drive/folders/117hqDCI_S_WpXO9oKjUF0asJFwLeQiPw?usp=sharing
 
 # Run Codes
 
